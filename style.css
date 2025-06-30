@@ -33,3 +33,9 @@
     bottom: 0;
     padding: 5px;
 }
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 40px;
+}
